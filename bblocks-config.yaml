@@ -37,8 +37,8 @@ contact:
 
 version: 0.1.0
 
-baseURL: https://geolabs.github.io/bblocks-process-profiles/
-gitHubBaseURL: https://github.com/GeoLabs/bblocks-process-profiles/
+baseURL: https://gfenoy.github.io/bblocks-process-profiles/
+gitHubBaseURL: https://github.com/gfenoy/bblocks-process-profiles/
 
 keywords:
   - OSPD
